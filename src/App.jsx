@@ -1,5 +1,5 @@
 import "./App.css";
-import { PrvaKompa as Prva,DrugaKompa as Druga,TrecaKompa,CetvrtaKompa as Cetvrta};
+import { PrvaKompa as Prva,DrugaKompa as Druga,TrecaKompa,CetvrtaKompa as Cetvrta} from "./index.js";
 
 function App(){
   return(
