@@ -1,6 +1,5 @@
 import "./App.css";
-import Prva from "./components/Prvakompa";
-import { DrugaKompa as Druga} from "./components/Drugakompa"
+import { PrvaKompa as Prva,DrugaKompa as Druga,TrecaKompa,CetvrtaKompa as Cetvrta};
 
 function App(){
   return(
@@ -8,6 +7,9 @@ function App(){
     <h1>Algebra</h1>
      <Prva/>
      <Druga />
+     <TrecaKompa />
+     <Cetvrta />
+     <NekaKompa/>
     </div>
     )
 }
