@@ -1,13 +1,13 @@
 import "./App.css";
-import PrvaKompa from "./components/Prvakompa";
-import {DrugaKompa} from "./components/Drugakompa"
+import Prva from "./components/Prvakompa";
+import { DrugaKompa as Druga} from "./components/Drugakompa"
 
 function App(){
   return(
     <div className="App">
     <h1>Algebra</h1>
-     <PrvaKompa/>
-     <DrugaKompa/>
+     <Prva/>
+     <Druga />
     </div>
     )
 }
