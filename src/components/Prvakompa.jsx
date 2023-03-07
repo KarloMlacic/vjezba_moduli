@@ -6,4 +6,3 @@ const PrvaKompa = () => {
     );
 };
 
-export default PrvaKompa;

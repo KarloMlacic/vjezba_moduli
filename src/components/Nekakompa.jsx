@@ -6,4 +6,3 @@ const NekaKompa = () => {
     );
 };
 
-export {NekaKompa};

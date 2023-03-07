@@ -22,5 +22,3 @@ const DrugaKompa = () => {
     );
   }
   
-  export default CetvrtaKompa;
-  export { DrugaKompa, TrecaKompa };
